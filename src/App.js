@@ -6,19 +6,19 @@ const intial_expenses = [
   {
     id: Math.random(),
     title: "Car Insurance",
-    amount: "$294.7",
+    amount: 304.7,
     date: new Date(2022, 1, 28),
   },
   {
     id: Math.random(),
     title: "Car Insurance",
-    amount: "$294.2",
+    amount: "504.2",
     date: new Date(2022, 6, 21),
   },
   {
     id: Math.random(),
     title: "Car Insurance",
-    amount: "$294.4",
+    amount: "294.4",
     date: new Date(2022, 7, 2),
   },
 ];
