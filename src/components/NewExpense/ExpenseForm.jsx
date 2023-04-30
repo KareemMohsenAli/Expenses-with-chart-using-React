@@ -62,7 +62,7 @@ export default function ExpenseForm({onSaveExpenseData}) {
     setdate('')
     const expenseData={
       title:title,
-      amount:price,
+      amount:+price,
       date: new Date(date),
     }
     onSaveExpenseData(expenseData)

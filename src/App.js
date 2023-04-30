@@ -27,7 +27,6 @@ function App() {
   const [expenses, setExpenses] = useState(intial_expenses);
 
   const addExpenseHandler = (expense) => {
-    // console.log(expense,'a7a')
 
     // setExpenses([expense,...expenses])
 
